@@ -1,13 +1,13 @@
 # hola mundo
 
-oso
-perro
-gato
-pez
-pino
-piedra
-sdfsfsdf
-111111
-222222
-3333333
+* oso
+* perro
+* gato
+* pez
+* pino
+* piedra
+* sdfsfsdf
+* 111111
+* 222222
+* 3333333
 
