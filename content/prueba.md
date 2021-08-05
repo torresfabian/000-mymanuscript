@@ -5,4 +5,6 @@ perro
 gato
 pez
 pino
+piedra
+
 
