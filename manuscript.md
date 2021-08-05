@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://torresfabian.github.io/000-mymanuscript/" />
   <meta name="citation_pdf_url" content="https://torresfabian.github.io/000-mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://torresfabian.github.io/000-mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://torresfabian.github.io/000-mymanuscript/v/6bcf323aa9cc5d2b96da91d522eeba724abc7fb4/" />
-  <meta name="manubot_html_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/6bcf323aa9cc5d2b96da91d522eeba724abc7fb4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/6bcf323aa9cc5d2b96da91d522eeba724abc7fb4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://torresfabian.github.io/000-mymanuscript/v/9414de5319654a53ec2b1fbd5e432d8643ea5b3c/" />
+  <meta name="manubot_html_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/9414de5319654a53ec2b1fbd5e432d8643ea5b3c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/9414de5319654a53ec2b1fbd5e432d8643ea5b3c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://torresfabian.github.io/000-mymanuscript/v/6bcf323aa9cc5d2b96da91d522eeba724abc7fb4/))
+([permalink](https://torresfabian.github.io/000-mymanuscript/v/9414de5319654a53ec2b1fbd5e432d8643ea5b3c/))
 was automatically generated
-from [torresfabian/000-mymanuscript@6bcf323](https://github.com/torresfabian/000-mymanuscript/tree/6bcf323aa9cc5d2b96da91d522eeba724abc7fb4)
+from [torresfabian/000-mymanuscript@9414de5](https://github.com/torresfabian/000-mymanuscript/tree/9414de5319654a53ec2b1fbd5e432d8643ea5b3c)
 on August 5, 2021.
 </em></small>
 
