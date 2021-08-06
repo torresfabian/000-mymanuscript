@@ -7,7 +7,7 @@ keywords:
 lang: en-US
 date-meta: '2021-08-06'
 author-meta:
-- John Doe
+- Fabián Torres
 - Jane Roe
 header-includes: |-
   <!--
@@ -27,10 +27,10 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Fabián Torres" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@None" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://torresfabian.github.io/000-mymanuscript/" />
   <meta name="citation_pdf_url" content="https://torresfabian.github.io/000-mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://torresfabian.github.io/000-mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://torresfabian.github.io/000-mymanuscript/v/c9109004f73629966d8ea8038fc996e0e3da2a3d/" />
-  <meta name="manubot_html_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/c9109004f73629966d8ea8038fc996e0e3da2a3d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/c9109004f73629966d8ea8038fc996e0e3da2a3d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://torresfabian.github.io/000-mymanuscript/v/5331d2f6fa5cf7489d06831776e4c50df8e7469b/" />
+  <meta name="manubot_html_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/5331d2f6fa5cf7489d06831776e4c50df8e7469b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/5331d2f6fa5cf7489d06831776e4c50df8e7469b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://torresfabian.github.io/000-mymanuscript/v/c9109004f73629966d8ea8038fc996e0e3da2a3d/))
+([permalink](https://torresfabian.github.io/000-mymanuscript/v/5331d2f6fa5cf7489d06831776e4c50df8e7469b/))
 was automatically generated
-from [torresfabian/000-mymanuscript@c910900](https://github.com/torresfabian/000-mymanuscript/tree/c9109004f73629966d8ea8038fc996e0e3da2a3d)
+from [torresfabian/000-mymanuscript@5331d2f](https://github.com/torresfabian/000-mymanuscript/tree/5331d2f6fa5cf7489d06831776e4c50df8e7469b)
 on August 6, 2021.
 </em></small>
 
@@ -75,13 +75,11 @@ on August 6, 2021.
 
 
 
-+ **John Doe**<br>
++ **Fabián Torres**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [torresfabian](https://github.com/torresfabian)<br>
   <small>
      Department of Something, University of Whatever
      · Funded by Grant XXXXXXXX
