@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://torresfabian.github.io/000-mymanuscript/" />
   <meta name="citation_pdf_url" content="https://torresfabian.github.io/000-mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://torresfabian.github.io/000-mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://torresfabian.github.io/000-mymanuscript/v/2d42f70e5871628a9b625b35a97083986d06cc2d/" />
-  <meta name="manubot_html_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/2d42f70e5871628a9b625b35a97083986d06cc2d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/2d42f70e5871628a9b625b35a97083986d06cc2d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://torresfabian.github.io/000-mymanuscript/v/18caa1a03f310ddd89c4199bbcfb980330559225/" />
+  <meta name="manubot_html_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/18caa1a03f310ddd89c4199bbcfb980330559225/" />
+  <meta name="manubot_pdf_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/18caa1a03f310ddd89c4199bbcfb980330559225/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://torresfabian.github.io/000-mymanuscript/v/2d42f70e5871628a9b625b35a97083986d06cc2d/))
+([permalink](https://torresfabian.github.io/000-mymanuscript/v/18caa1a03f310ddd89c4199bbcfb980330559225/))
 was automatically generated
-from [torresfabian/000-mymanuscript@2d42f70](https://github.com/torresfabian/000-mymanuscript/tree/2d42f70e5871628a9b625b35a97083986d06cc2d)
+from [torresfabian/000-mymanuscript@18caa1a](https://github.com/torresfabian/000-mymanuscript/tree/18caa1a03f310ddd89c4199bbcfb980330559225)
 on August 6, 2021.
 </em></small>
 
@@ -100,6 +100,7 @@ on August 6, 2021.
 
 ## Abstract {.page_break_before}
 
+El presente trabajo tiene por objetivo evaluar la eficacia de la terapia asincrónica para determinar si es conveniente su utilización. Para tal fin se aplicó la misma a un conjunto de pacientes recuperados de una comunidad de tratamiento de adicciones encontrándose que fue muy bien aceptada y se pudo constatar que bajaron las recaídas en un 50 %.
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
