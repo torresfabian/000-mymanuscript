@@ -6,12 +6,12 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: torresfabian
+    name: Fabián Torres
+    initials: FT
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: 
+    email: torres.fabian@gmail.com
     affiliations:
       - Department of Something, University of Whatever
     funders:
