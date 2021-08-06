@@ -7,7 +7,6 @@ bien
 comunidad
 conjunto
 constatar
-conveniente
 determinar
 eficacia
 El
@@ -18,6 +17,7 @@ fue
 janeroe
 misma
 muy
+niveles
 objetivo
 pacientes
 por
@@ -25,7 +25,7 @@ presente
 pudo
 recaídas
 recuperados
-su
+sus
 tal
 terapia
 tiene
@@ -33,6 +33,5 @@ torresfabian
 trabajo
 tratamiento
 una
-utilización
 XXXX
 XXXXXXXX

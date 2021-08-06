@@ -7,8 +7,8 @@ content/01.abstract.md:3:bien
 content/01.abstract.md:3:comunidad
 content/01.abstract.md:3:conjunto
 content/01.abstract.md:3:constatar
-content/01.abstract.md:3:conveniente
 content/01.abstract.md:3:determinar
+content/01.abstract.md:3:eficacia
 content/01.abstract.md:3:eficacia
 content/01.abstract.md:3:El
 content/01.abstract.md:3:encontrándose
@@ -16,6 +16,7 @@ content/01.abstract.md:3:evaluar
 content/01.abstract.md:3:fue
 content/01.abstract.md:3:misma
 content/01.abstract.md:3:muy
+content/01.abstract.md:3:niveles
 content/01.abstract.md:3:objetivo
 content/01.abstract.md:3:pacientes
 content/01.abstract.md:3:por
@@ -23,13 +24,12 @@ content/01.abstract.md:3:presente
 content/01.abstract.md:3:pudo
 content/01.abstract.md:3:recaídas
 content/01.abstract.md:3:recuperados
-content/01.abstract.md:3:su
+content/01.abstract.md:3:sus
 content/01.abstract.md:3:tal
 content/01.abstract.md:3:terapia
 content/01.abstract.md:3:tiene
 content/01.abstract.md:3:trabajo
 content/01.abstract.md:3:tratamiento
 content/01.abstract.md:3:una
-content/01.abstract.md:3:utilización
 content/prueba.md:5:muy
 content/prueba.md:7:el
