@@ -15,6 +15,7 @@ content/01.abstract.md:3:encontrándose
 content/01.abstract.md:3:evaluar
 content/01.abstract.md:3:fue
 content/01.abstract.md:3:misma
+content/01.abstract.md:3:misma
 content/01.abstract.md:3:muy
 content/01.abstract.md:3:niveles
 content/01.abstract.md:3:objetivo
