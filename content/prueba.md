@@ -1,13 +1,6 @@
 # hola mundo
 
-* oso
-* perro
-* gato
-* pez
-* pino
-* piedra
-* sdfsfsdf
-* 111111
-* 222222
-* 3333333
+
+
+Comenzamos a utilizar esta herramienta de edición  que es muy versátil y permite generar un documento **académico** con mucha facilidad.
 
