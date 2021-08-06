@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/torresfabian/000-mymanuscript/tree/gh-pages) branch hosts the contents of this directory at <https://torresfabian.github.io/000-mymanuscript/>.
-The permalink for this webpage version is <https://torresfabian.github.io/000-mymanuscript/v/c9109004f73629966d8ea8038fc996e0e3da2a3d/>.
+The permalink for this webpage version is <https://torresfabian.github.io/000-mymanuscript/v/5331d2f6fa5cf7489d06831776e4c50df8e7469b/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://torresfabian.github.io/000-mymanuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`c9109004f73629966d8ea8038fc996e0e3da2a3d`](https://github.com/torresfabian/000-mymanuscript/commit/c9109004f73629966d8ea8038fc996e0e3da2a3d).
+[`5331d2f6fa5cf7489d06831776e4c50df8e7469b`](https://github.com/torresfabian/000-mymanuscript/commit/5331d2f6fa5cf7489d06831776e4c50df8e7469b).
