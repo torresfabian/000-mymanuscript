@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://torresfabian.github.io/000-mymanuscript/" />
   <meta name="citation_pdf_url" content="https://torresfabian.github.io/000-mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://torresfabian.github.io/000-mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://torresfabian.github.io/000-mymanuscript/v/68785c9f0e23cb0f9e90fdcc95f54bafb0164d12/" />
-  <meta name="manubot_html_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/68785c9f0e23cb0f9e90fdcc95f54bafb0164d12/" />
-  <meta name="manubot_pdf_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/68785c9f0e23cb0f9e90fdcc95f54bafb0164d12/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://torresfabian.github.io/000-mymanuscript/v/64d8b27fc579c46b90f6a42012fe83329ec566b8/" />
+  <meta name="manubot_html_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/64d8b27fc579c46b90f6a42012fe83329ec566b8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://torresfabian.github.io/000-mymanuscript/v/64d8b27fc579c46b90f6a42012fe83329ec566b8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://torresfabian.github.io/000-mymanuscript/v/68785c9f0e23cb0f9e90fdcc95f54bafb0164d12/))
+([permalink](https://torresfabian.github.io/000-mymanuscript/v/64d8b27fc579c46b90f6a42012fe83329ec566b8/))
 was automatically generated
-from [torresfabian/000-mymanuscript@68785c9](https://github.com/torresfabian/000-mymanuscript/tree/68785c9f0e23cb0f9e90fdcc95f54bafb0164d12)
+from [torresfabian/000-mymanuscript@64d8b27](https://github.com/torresfabian/000-mymanuscript/tree/64d8b27fc579c46b90f6a42012fe83329ec566b8)
 on August 6, 2021.
 </em></small>
 
@@ -99,6 +99,19 @@ on August 6, 2021.
 
 
 ## Abstract {.page_break_before}
+
+## Título
+
+Terapia psicológica  asincrónica
+
+## Hipótesis
+
+La terapia psicológica asincrónica tiene efectos terapéuticos que justifican su uso.
+
+
+
+
+
 
 
 
